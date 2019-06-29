@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div>
+    <h1>Success!</h1>
+
+    <p>Short URL: </p>
+
+    <p><a class='btn btn-link' href='{{ new_url }}'>{{ new_url }}</a></p>
+    <a class='btn btn-default'  href='/'>New</a>
+</div>
+{% endblock content %}
