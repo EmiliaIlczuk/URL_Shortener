@@ -7,7 +7,7 @@
 
 ## General info
 This is URL shortening application written using the Django framework. 
-The majority of this project was built by following Udemy course [Try Django] (https://www.udemy.com/try-django-1-10/) and Sudeep Acharya's [Blog post] (https://hellocoding.wordpress.com/2015/01/12/django-url-shortener/5/).
+The majority of this project was built by following Udemy course [Try Django](https://www.udemy.com/try-django-1-10/) and Sudeep Acharya's [Blog post](https://hellocoding.wordpress.com/2015/01/12/django-url-shortener/5/).
 
 
 ## Technologies
